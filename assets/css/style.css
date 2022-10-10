@@ -10,17 +10,6 @@ h3{
     text-align: center;
   }
 
-h1 {
-  font-size: 60pt;
-}
-
-h2 {
-  font-size: 50pt;
-}
-h3 {
-  font-size: 20pt;
-}
-
  .topnav {
     background-color: rgb(185, 167, 132);
     overflow: hidden;
@@ -53,12 +42,12 @@ h3 {
 
 #portfolio {
   align-items: right;
-  position: absolute;
+  position: relative;
 }
 
   #contact {
     text-align: left;
-    position:fixed;
+    position: relative;
   }
 
 /* Container and items */
@@ -126,14 +115,14 @@ h3 {
 
   @media only screen and (max-width: 1024px) {
     .grid-item {
-      width: 35%;
+      width: 45%;
     }
     .main-work {
-      width: 25%;
+      width: 85%;
     }
   }
-  
-  @media only screen and (max-width: 750px) {
+
+  @media only screen and (max-width: 767px) {
     .grid-item {
       width: 65%;
     }
