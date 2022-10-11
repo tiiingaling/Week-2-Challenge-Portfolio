@@ -9,8 +9,8 @@ As I do not have anything to showcase at the moment the portfolio contains place
 
 ## Screenshot
 
-![my completed version of the portfolio](./assets/screenshot.jpg)
-![second screenshot](./assets/screenshot2.jpg)
+![my completed version of the portfolio](./assets/screenshot.png)
+![second screenshot](./assets/screenshot2.png)
 
 ## Deployed URL
 
